@@ -78,7 +78,7 @@ I am passionate about learning and staying updated with industry trends. Certifi
 
 If you have questions about any of these certifications or wish to collaborate, feel free to reach out:  
 📧 **Email**: [mrbenboyy@gmail.com](mailto:mrbenboyy@gmail.com)  
-🌐 **GitHub**: [Your GitHub Profile](#)  
+🌐 **GitHub**: [https://github.com/mrbenboyy](#)  
 
 ---
 
