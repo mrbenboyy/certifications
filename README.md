@@ -35,6 +35,7 @@ Certifications play an important role in validating my expertise and dedication 
 | HCIA-Cloud Computing V5.5 Course       | Huawei Talent            | Decemeber 2024     |  
 | Introduction to OpenShift Applications | Red Hat                  | March 2024         | 
 | Honoris 21st Century Skills Certificate| Honoris Online Academy   | February 2024      | 
+| Technical Support Fundamentals         | Google                   | March 2024      | 
 
 
 ---
